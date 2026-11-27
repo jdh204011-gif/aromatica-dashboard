@@ -1,0 +1,45 @@
+{
+  "basis": "separate",
+  "records": [
+    {
+      "revenue": 44553571801,
+      "equity": -15784518022,
+      "audit_status": "unaudited_per_reproduced_report",
+      "assets": 32412642222,
+      "year": 2023,
+      "equity_status": "negative",
+      "operating_margin_pct": 7.425456622819509,
+      "liabilities": 48197160244,
+      "debt_ratio_pct": -305.344516549851,
+      "operating_profit": 3308306148
+    },
+    {
+      "revenue": 52596465309,
+      "equity": 18664268644,
+      "audit_status": "final_report_verification_pending",
+      "assets": 32934925741,
+      "year": 2024,
+      "equity_status": "positive",
+      "operating_margin_pct": 10.749230538183275,
+      "liabilities": 14270657097,
+      "debt_ratio_pct": 76.45977117666267,
+      "operating_profit": 5653715311
+    },
+    {
+      "revenue": 51187435857,
+      "equity": 42511270517,
+      "audit_status": "final_report_verification_pending",
+      "assets": 51597360836,
+      "year": 2025,
+      "equity_status": "positive",
+      "operating_margin_pct": 10.040766092207267,
+      "liabilities": 9086090319,
+      "debt_ratio_pct": 21.373368070395653,
+      "operating_profit": 5139610703
+    }
+  ],
+  "unit": "won",
+  "source_register": "../docs/FINANCIAL_RESEARCH.md",
+  "verification_status": "provisional_pending_DART_original",
+  "currency": "KRW"
+}
